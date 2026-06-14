@@ -6,6 +6,7 @@ I am building full-stack learning projects to understand how frontend, backend a
 
 ## Main project
 Live demo: https://komarovs.lv/
+Deployed by myself using Angular build, Spring Boot backend, PostgreSQL, Nginx reverse proxy and custom domain setup.
 
 ### Event Registration Platform
 
