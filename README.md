@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Kristaps
 
-<!--
-**kristapskomarovs-wq/kristapskomarovs-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior developer focused on Java, Spring Boot, Angular and PostgreSQL.
 
-Here are some ideas to get you started:
+I am building full-stack learning projects to understand how frontend, backend and databases work together.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Main project
+
+### Event Registration Platform
+
+Full-stack application with Angular frontend and Spring Boot backend.
+
+Frontend:
+https://github.com/kristapskomarovs-wq/pasakumi_frontend
+
+Backend:
+https://github.com/kristapskomarovs-wq/pasakumu_serveris
+
+## Tech Stack
+
+- Java
+- Spring Boot
+- REST API
+- PostgreSQL
+- JPA / Hibernate
+- Angular
+- TypeScript
+- Git / GitHub
+
+## Currently learning
+
+- Better REST API design
+- Authentication and JWT
+- Backend validation
+- Testing
+- Deployment
