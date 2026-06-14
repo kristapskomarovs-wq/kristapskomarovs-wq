@@ -5,6 +5,7 @@ Junior developer focused on Java, Spring Boot, Angular and PostgreSQL.
 I am building full-stack learning projects to understand how frontend, backend and databases work together.
 
 ## Main project
+Live demo: https://komarovs.lv/
 
 ### Event Registration Platform
 
